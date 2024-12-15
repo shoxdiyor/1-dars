@@ -386,6 +386,7 @@ body {
 }
 
 .membership-cards5 {
+  font-family: "Martian Mono";
   display: flex;
   gap: 1rem;
   justify-content: center;
